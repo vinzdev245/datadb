@@ -7,10 +7,10 @@
     "name": "vinz",
     "password": "vinz1"
   },
-    "6285225104176": {
+  "6285225104176": {
     "name": "dapastr",
     "password": "DAPABOT"
-    },
+  },
   "6281315335786": {
     "name": "Rilmanbug",
     "password": "yukiscaru"
@@ -50,5 +50,9 @@
   "6283824326568": {
     "name": "anjay",
     "password": "anjay"
+  },
+  "6282186800343": {
+    "name": "lingfin",
+    "password": "ling"
   }
 }
